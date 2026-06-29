@@ -9,7 +9,7 @@ RAG Book Assistant is an AI-powered document question-answering application buil
 1. To develop an AI-powered application for answering questions from PDF documents.
 2. To implement Retrieval-Augmented Generation (RAG) for accurate and context-aware responses.
 3. To use Hugging Face embeddings and ChromaDB for efficient document retrieval.
-4.To integrate the Mistral language model for generating relevant answers based on retrieved content.
+4. To integrate the Mistral language model for generating relevant answers based on retrieved content.
 5. To provide a simple and interactive user interface for document upload and question answering using Streamlit.
 
 
